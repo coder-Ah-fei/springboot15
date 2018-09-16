@@ -9,6 +9,7 @@
         <module name="eureka-server" />
         <module name="role-manage" />
         <module name="springboot15" />
+        <module name="tx-manager" />
         <module name="user-manage" />
       </profile>
     </annotationProcessing>
